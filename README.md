@@ -14,7 +14,7 @@ new depCreator({
     dbs: [
         {
             name: "niceDB1",
-            // If this is true, the db will be deleted ad startup and recreated
+            // If this is true, the db will be deleted at startup and recreated
             recreate: false,
             tables: [
                 {
