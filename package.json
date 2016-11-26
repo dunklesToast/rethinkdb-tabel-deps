@@ -1,6 +1,6 @@
 {
   "name": "rethinkdb-tabel-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create depended dbs and tables (+index) from a json file",
   "main": "index.js",
   "scripts": {
