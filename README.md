@@ -1,6 +1,6 @@
 # Let this stupid module create your db`s
 
-I wrote this module because I was bored to write the world biggest waterfall to create all of my db`s and table`s and indexes for my applications.
+I wrote this module because I was bored to write the world biggest waterfall to create all of my db\`s and table\`s and indexes for my applications.
 
 ### Example
 
