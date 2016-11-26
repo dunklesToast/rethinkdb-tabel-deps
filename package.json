@@ -1,0 +1,23 @@
+{
+  "name": "rethinkdb-tabel-deps",
+  "version": "1.0.0",
+  "description": "Create depended dbs and tables (+index) from a json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rethinkdb",
+    "dependencies"
+  ],
+  "author": "Noim <nilsbergmann@noim.io>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "async": "^2.1.4",
+    "rethinkdb": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheNoim/rethinkdb-tabel-deps"
+  }
+}
