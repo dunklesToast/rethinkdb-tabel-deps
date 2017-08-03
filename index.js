@@ -42,7 +42,6 @@ class depCreator {
     }
 
     createDB(db, callback) {
-        console.log(db.name);
         r.dbCreate(db.name).run(this.con, (err, result) => {
             if (err) return callback(err);
             async.each(db.tables, (table, call) => {
